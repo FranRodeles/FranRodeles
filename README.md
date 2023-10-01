@@ -12,7 +12,7 @@ Currently, I am learning Docker🐳 and Kubernetes thoroughly, alongside AWS for
 <br/>  
 
 
-## Rapidfire  
+## Fast Information
 <table><tr><td valign="top" width="50%">
 
   
@@ -34,7 +34,6 @@ Currently, I am learning Docker🐳 and Kubernetes thoroughly, alongside AWS for
 </div>  
 
 
-</td></tr></table>  
 
 <br/>  
 
@@ -65,20 +64,4 @@ Currently, I am learning Docker🐳 and Kubernetes thoroughly, alongside AWS for
 
 
 
-</td></tr></table>  
 
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
