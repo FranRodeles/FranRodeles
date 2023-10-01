@@ -34,6 +34,6 @@ Currently, I am learning Docker🐳 and Kubernetes thoroughly, alongside AWS for
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FranRodeles&show_icons=true&count_private=true&hide_border=true&theme=shadow_blue" align="left" style="width: 100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FranRodeles&show_icons=true&count_private=true&hide_border=true&theme=shadow_blue"/>
 </div>
 <br/>  
