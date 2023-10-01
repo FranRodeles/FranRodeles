@@ -6,8 +6,7 @@ Currently, I am learning Docker🐳 and Kubernetes thoroughly, alongside AWS for
 
 <br/>  
 
-## Rapidfire  
-
+## Fast of me
 - 🌱 I’m currently learning AWS, Kubernetes, and Ansible  
 - 💻 Currently working with Docker and Kubernetes  
 - ⚡ Fun fact: Coffee upgrades my level in technology  
@@ -33,8 +32,8 @@ Currently, I am learning Docker🐳 and Kubernetes thoroughly, alongside AWS for
 
 ## Github Stats  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FranRodeles&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-</div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FranRodeles&show_icons=true&count_private=true&hide_border=true&theme=shadow_blue" align="left" style="width: 100%" />
+</div>
 <br/>  
